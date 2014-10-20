@@ -1,4 +1,4 @@
-### What i have to do, When i am seeing red error message?
+### What i have to do? When i am getting red error message?
   1. Sign Out from the application
   2. Click the refresh button in the browser
   3. Sign In to the application
